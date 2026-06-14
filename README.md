@@ -1,4 +1,4 @@
-## Hi there, im Swayam👋
+## Hi there, i'm Swayam👋
 
 I build AI Systems, Agents, evaluation frameworks and retrieval systems that help models reason, act and make reliable decisions.
 
@@ -8,7 +8,9 @@ I build AI Systems, Agents, evaluation frameworks and retrieval systems that hel
 Currently Building: 
 - TamePND: AI Support pipeline ensuing relaible LLM outputs and semantic search accuracy.
 - Shadow: Playwright based AI agent swarm against URL's and breakage findings with evidence.
-- 
+- Wingman: AI based texting helping you rizz and up your text game.
+
+
 <!--
 **SwayamSamel45/SwayamSamel45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
