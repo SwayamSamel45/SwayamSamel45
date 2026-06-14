@@ -2,7 +2,7 @@
 
 I build AI Systems, Agents, evaluation frameworks and retrieval systems that help models reason, act and make reliable decisions.
 
-[Resume](https://drive.google.com/file/d/1UGoq90uriWyg9yi8An1tdl3rJ4gUOc9p/view?usp=sharing)
+[Resume](https://drive.google.com/file/d/18YOR11LwGsp3NTZtaspaHedemysOv9M3/view?usp=sharing)
 [LinkedIn](https://www.linkedin.com/in/swayam-samel-689398268/)
 
 Currently Building: 
