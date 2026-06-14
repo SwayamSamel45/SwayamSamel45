@@ -10,7 +10,6 @@ Currently Building:
 - Shadow: Playwright based AI agent swarm against URL's and breakage findings with evidence.
 - Wingman: AI based texting helping you rizz and up your text game.
 
-Python, TypeScript, React, Next.js, Django, PostgreSQL, Supabase, Docker, Node.js, Tailwind, Git, GitHub
 <!--
 **SwayamSamel45/SwayamSamel45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
